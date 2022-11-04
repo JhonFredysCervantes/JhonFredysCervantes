@@ -13,7 +13,10 @@ Below I present some of the languages, programs, methodology, etc, with which I 
 ### - Languages
 
 <p align="center">
-
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="64" height="64"/>
+<img src="https://cdn-icons-png.flaticon.com/128/3098/3098090.png" width="64" height="64"/>
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="64" height="64"/>
+<img src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" width="64" height="64"/>
 </p>
 
 ### - Libraries or Freamewoks used
