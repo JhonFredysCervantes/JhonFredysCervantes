@@ -31,7 +31,23 @@ Below I present some of the languages, programs, methodology, etc, with which I 
 ### - Programs
 
 <p align="center">
+  <img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" width="64" height="64"/>
+  <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" width="64" height="64"/>
+  <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" width="64" height="64"/>
+</p>
 
+### - Cloud
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1024px-Microsoft_Azure.svg.png" width="64" height="64"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" width="74" height="64"/>
+</p>
+
+### - SO
+
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/128/888/888882.png" width="64" height="64"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/5969/5969282.png" width="64" height="64"/>
 </p>
 
 ### - Methodologies
