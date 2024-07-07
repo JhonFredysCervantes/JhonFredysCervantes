@@ -2,7 +2,7 @@
 
 I am software developer.
 
-Lately I have gained experience for more than two years in software development, mainly oriented towards integrations for information systems related to electronic commerce, just as I have worked in the banking sector.
+Lately I have gained experience for more than three years in software development, mainly oriented towards integrations for information systems related to electronic commerce, just as I have worked in the banking sector.
 
 I have also participated in projects that involved solutions applying machine learning, a subject in which I am very interested.
 
@@ -18,6 +18,7 @@ Below I present some of the languages, programs, methodology, etc, with which I 
   <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="64" height="64"/>
   <img src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" width="64" height="64"/>
   <img src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" width="64" height="64"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/6132/6132221.png" width="64" height="64"/> 
 </p>
 
 ### - Libraries or Freamewoks used
@@ -26,6 +27,7 @@ Below I present some of the languages, programs, methodology, etc, with which I 
   <img src="https://user-images.githubusercontent.com/48772662/200090396-cecf25c2-6b80-4314-905d-e84909fc1b9d.png" width="64" height="64"/>
   <img src="https://user-images.githubusercontent.com/48772662/200090329-4157d1ed-c1a1-4c2d-9ee4-bfdc2fb64143.png" width="64" height="64"/>
   <img src="https://cdn-icons-png.flaticon.com/128/919/919851.png" width="64" height="64"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/15466/15466100.png" width="64" height="64"/>
 </p>
 
 ### - Programs
