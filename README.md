@@ -2,7 +2,7 @@
 
 I am software developer.
 
-Lately I have gained experience for more than three years in software development, mainly oriented towards integrations for information systems related to electronic commerce, just as I have worked in the banking sector.
+Lately I have gained experience for more than five years in software development, mainly oriented towards integrations for information systems related to electronic commerce, just as I have worked in the banking sector.
 
 I have also participated in projects that involved solutions applying machine learning, a subject in which I am very interested.
 
