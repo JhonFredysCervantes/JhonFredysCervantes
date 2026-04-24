@@ -41,7 +41,7 @@ Below I present some of the languages, programs, methodology, etc, with which I 
 ### - Cloud
 
 <p align="center">
-  <img src="https://commons.wikimedia.org/wiki/File:Microsoft_Azure.svg" width="64" height="64"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/873/873107.png" width="64" height="64"/>
   <img src="https://logolook.net/amazon-web-services-logo" width="74" height="64"/>
 </p>
 
